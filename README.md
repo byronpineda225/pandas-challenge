@@ -2,8 +2,6 @@
 
 Observable trends in the data:
 
-Please note that while I could not get all the sections to run I used the results listed in the expected results to draw my conclusions.
-
 The top 5 performing schools, at least by overall passing math and reading scores, are Charter schools.  Those schools had an overall passing percentage of over 90%.
 
 The 5 bottom performing schools are District schools at least by overall passing math and reading scores. Those schools had an overall passing percentage of roughly 53%.
